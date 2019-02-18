@@ -14,4 +14,4 @@ management:
     web:
       exposure:
         include: bus-refresh
-mytest: 123
+mytest: 123456
